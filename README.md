@@ -11,7 +11,7 @@ Please refer to their website for the detailed statistics of this dataset.
 We already upload compressed-domain video features.
 You don't need to download orinial video.
 ~~~
-ls Model
+cd Model
 ~~~
 
 ### Preprocessing

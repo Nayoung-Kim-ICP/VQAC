@@ -17,7 +17,7 @@ We provide data and our pre-trained models.
 │       ├── val_qa_encode.json
 │       ├── vocab.txt
 │       └── word_embedding.npy
-│   ├── video_data
+│   └── video_data
 │       ├── resi_test.h5
 │       ├── resi_train.h5
 │       ├── resi_val.h5
@@ -31,15 +31,16 @@ We provide data and our pre-trained models.
 ``` 
 
 ### Train, validate, and test
-For training and validating, execute the following command
+For testing, execute the following command
+~~~~
+python main.py --test=True --is_print_mode=True --model_mode=HME
+~~~~
+
+For training, execute the following command
 ~~~~
 python main.py --test=Flase --model_mode=VQAC
 ~~~~
-
-For testing, execute the following command
-~~~~
-python main.py --test=True --is_print_mode=True
-~~~~
+You can select several options in the file :  option.py
 
 ### Requirements
 Python = 3.6
