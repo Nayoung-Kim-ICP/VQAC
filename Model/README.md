@@ -2,7 +2,7 @@
 ### (VQAC)
 
 This is the PyTorch Implementation of 
-* Nayoung Kim. *Video Question Answering Using Language-Guided Deep Conpressed-Domain Video Feature*. In *ICCV*, 2021. 
+* Nayoung Kim, seong-jong Ha, and Je-won Kang. *Video Question Answering Using Language-Guided Deep Conpressed-Domain Video Feature*. In *ICCV*, 2021. (Accepted)
 
 ### Data 
 We provide data and our pre-trained models.
