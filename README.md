@@ -1,15 +1,15 @@
-### Video Question Answering Using Language-Guided Deep Conpressed-Domain Video Feature
+### Video Question Answering Using Language-Guided Deep Compressed-Domain Video Feature
 ### (VQAC)
 
 This is the PyTorch Implementation of 
-* Nayoung Kim, Seong-Jong Ha, and Je-Won Kang. *Video Question Answering Using Language-Guided Deep Conpressed-Domain Video Feature*. In *ICCV*, 2021. (to appear)
+* Nayoung Kim, Seong-Jong Ha, and Je-Won Kang. *Video Question Answering Using Language-Guided Deep Compressed-Domain Video Feature*. In *ICCV*, 2021. (to appear)
 
 ### Download preprocessing data
 In this experiment, we use [MSVD-QA dataset](https://github.com/xudejing/VideoQA).
 Please refer to their website for the detailed statistics of this dataset.
 
 We already upload compressed-domain video features.
-You don't need to download orinial videos.
+You don't need to download original videos.
 ~~~
 cd Model
 ~~~
